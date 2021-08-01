@@ -131,6 +131,7 @@ CREATE TABLE `job_history` (
 --
 -- Dumping data for table `job_history`
 --
+--
 
 LOCK TABLES `job_history` WRITE;
 /*!40000 ALTER TABLE `job_history` DISABLE KEYS */;
